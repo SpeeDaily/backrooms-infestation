@@ -1,5 +1,8 @@
 ![THE BACKROOMS: INFESTATION](banner.png)
 
+## DESCENT FOOTAGE (GAMEPLAY)
+[![The Backrooms Infestation Gameplay](https://img.youtube.com/vi/k1GIXhuJYQE/maxresdefault.jpg)](https://www.youtube.com/watch?v=k1GIXhuJYQE)
+
 # THE BACKROOMS: INFESTATION
 
 **A procedurally generated liminal horror survival game built in a single (84.38 KB) file.** No external libraries, no game engines, no image assets. Pure Vanilla JavaScript, HTML, and CSS.
