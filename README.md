@@ -1,13 +1,12 @@
-![THE BACKROOMS: INFESTATION](banner.png)
-
-## DESCENT FOOTAGE (GAMEPLAY)
-[![The Backrooms Infestation Gameplay](https://img.youtube.com/vi/k1GIXhuJYQE/maxresdefault.jpg)](https://www.youtube.com/watch?v=k1GIXhuJYQE)
-
 # THE BACKROOMS: INFESTATION
 
-**A procedurally generated liminal horror survival game built in a single (84.38 KB) file.** No external libraries, no game engines, no image assets. Pure Vanilla JavaScript, HTML, and CSS.
+[![The Backrooms Infestation Gameplay](https://img.youtube.com/vi/k1GIXhuJYQE/maxresdefault.jpg)](https://www.youtube.com/watch?v=k1GIXhuJYQE)
 
-[🎮 **PLAY THE GAME LIVE HERE**](https://speedaily.github.io/backrooms-infestation/)
+**A procedurally generated liminal horror survival game built in a single 84.38 KB file.** No external libraries, no game engines, no image assets. Pure Vanilla JavaScript, HTML, and CSS.
+
+🚀 [**PLAY THE GAME INSTANTLY IN YOUR BROWSER**](https://speedaily.github.io/backrooms-infestation/)
+
+📦 [**DOWNLOAD THE RELEASE TO PLAY 100% OFFLINE**](https://github.com/SpeeDaily/backrooms-infestation/releases)
 
 ---
 
@@ -17,12 +16,12 @@ You are trapped. Escape the procedurally generated corridors. Beware the anomali
 ---
 
 ## SURVIVAL PROTOCOLS (CONTROLS)
-*   **W, A, S, D / ARROW KEYS:** Move and slide along corridors[cite: 3].
-*   **SHIFT:** Hold to sprint and escape anomalies[cite: 3].
-*   **MOUSE DRAG:** Rotate look direction[cite: 3].
-*   **LEFT CLICK:** Locks cursor to screen & fires hitscan railgun[cite: 3].
-*   **ANOMALIES (🎃, 😡, 👿):** Sidestep your crosshairs if you shoot. Distance < 2m emits heavy radiation that drains health[cite: 3].
-*   **MEDKITS:** Stand over the green crosses to restore 40 HP[cite: 3].
+*   **W, A, S, D / ARROW KEYS:** Move and slide along corridors.
+*   **SHIFT:** Hold to sprint and escape anomalies.
+*   **MOUSE DRAG:** Rotate look direction.
+*   **LEFT CLICK:** Locks cursor to screen & fires hitscan railgun.
+*   **ANOMALIES (🎃, 😡, 👿):** Sidestep your crosshairs if you shoot. Distance < 2m emits heavy radiation that drains health.
+*   **MEDKITS:** Stand over the green crosses to restore 40 HP.
 
 ---
 
@@ -31,7 +30,7 @@ This project is an exercise in extreme optimization and zero-dependency web deve
 *   **Zero External Assets:** All rendering, textures, and UI elements are generated via raw code or HTML Canvas elements. 
 *   **Custom Raycaster:** A scratch-built 2.5D rendering engine running natively in the browser viewport.
 *   **Procedural Generation:** Infinite level scaling using a DFS recursive backtracker maze algorithm.
-*   **Procedural Audio:** Footsteps, deep hum drones, basslines, and heartbeat effects are synthesized in real-time using the native Web Audio API[cite: 3].
+*   **Procedural Audio:** Footsteps, deep hum drones, basslines, and heartbeat effects are synthesized in real-time using the native Web Audio API.
 *   **Offline Capable:** Because the entire game logic lives inside `index.html`, it can be downloaded and played natively on any desktop without an internet connection.
 
 ---
