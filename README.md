@@ -2,7 +2,7 @@
 
 # THE BACKROOMS: INFESTATION
 
-**A procedurally generated liminal horror survival game built in a single 68kb file.** No external libraries, no game engines, no image assets. Pure Vanilla JavaScript, HTML, and CSS.
+**A procedurally generated liminal horror survival game built in a single (84.38 KB) file.** No external libraries, no game engines, no image assets. Pure Vanilla JavaScript, HTML, and CSS.
 
 [🎮 **PLAY THE GAME LIVE HERE**](https://speedaily.github.io/backrooms-infestation/)
 
